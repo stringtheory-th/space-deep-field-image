@@ -1,7 +1,7 @@
 <h1 align="center">Space Deep Field Image - Computer Olympics in Thailand.</h1>
 
 <p align="center">
-  <img src="image/exam_simple.png" alt="exam-simple" width="730" height="800"/>
+  <img src="image/exam_simple.PNG" alt="exam-simple" width="730" height="800"/>
   <br>
   <i> Here is a sample exam in this repository. [exam_simple.png] </i>
   <br>
